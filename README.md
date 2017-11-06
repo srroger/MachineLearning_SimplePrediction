@@ -20,4 +20,4 @@ Just run the .Lpy files
 
 ## Authors
 
-* **Roger Srey** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Roger Srey**
